@@ -1,0 +1,10 @@
+# Ignore Python virtual env
+venv_deepeval/
+
+# Ignore all .pyc files
+.pytest_cache
+__pycache__
+
+
+# Ignore test result files
+.deepeval/
